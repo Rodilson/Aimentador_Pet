@@ -1,0 +1,10 @@
+# Arduino IDE Keywords for Syntax Coloring
+ 
+# Keyword for class NodeMotorDriver
+ModMotor  KEYWORD1
+ 
+# Keyword for class functions
+avanca    KEYWORD2
+recua     KEYWORD2
+descarga  KEYWORD2
+para      KEYWORD3
